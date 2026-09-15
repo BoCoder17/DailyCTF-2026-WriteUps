@@ -1,4 +1,4 @@
-# Задание: Brokens
+# Задание: Gang Банда
 
 ![Задание15](photo/task15.png)
 
@@ -14,7 +14,7 @@
    `Зифкм шпдж: GXJ{FEHFSCWVIWTIGX}`
    ![тгк2](photo/photo23.png)
 4. Переходим в [CyberChef](https://gchq.github.io/CyberChef/) и применяем операцию **ROT13** (подбираем сдвиг):
-   ![расшифровка](photo/photo23.png)
+   ![расшифровка](photo/photo24.png)
    Получаем расшифрованный флаг: `CTF{BADBOYSRESPECT}`.
 
 ---
